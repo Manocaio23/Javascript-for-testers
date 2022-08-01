@@ -1,0 +1,11 @@
+{
+  "name": "js-for-testers",
+  "version": "1.0.0",
+  "description": "JS for testers demo project",
+  "main": "01-Basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
